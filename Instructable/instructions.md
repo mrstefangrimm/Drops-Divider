@@ -2,6 +2,8 @@
 
 https://youtu.be/7W9dnTsFphQ
 
+![assembled](assembled.jpg)
+
 ![parts](parts.jpg)
 
 
