@@ -1,6 +1,6 @@
-# Drops Splitter, Drops Divider 
+# Drops Divider 
 
-https://youtu.be/7W9dnTsFphQ
+https://youtu.be/yke2jgYEK6E
 
 ![assembled](assembled.jpg)
 
@@ -8,59 +8,27 @@ https://youtu.be/7W9dnTsFphQ
 
 
 
-The Drops Divider is an addition to the Gardena Micro-Drip irrigation system. It ?distributes? the drops of a [end dripper](https://www.gardena.com/ch-de/produkte/bewasserung/micro-drip-system/endtropfer-druckausgleichend/901161101/) into two pots.
+I recently bought an irrigation system to water the plants on my balcony. It worked perfectly, except that the small plat pots got too much water. The Drops Divider distributes the water evently between two small pots, so they only get half the water. This not only works, it also has a meditative character when you see the rocker tilting from side to side.
 
 
 
-
-
-An alternative solution to the Drops Divider are [Gardena's adjustable drippers](https://www.gardena.com/ch-de/produkte/bewasserung/micro-drip-system/regulierbarer-endtropfer/900914901/).
-
-
-
-I like plants. But I don't like watering the plants so I bought an irrigation system. With one little problem: The small pots get too much water.
-
-The Drops Splitter equally distributes the water into two small pots; they now get half the water the medium sized pots get.
-
-Besides the fact that it works, it has a meditative character watching the swing rock from side to side.
+An alternative solution to the Drops Divider are [adjustable drippers](https://www.gardena.com/de/produkte/bewasserung/micro-drip-system/regulierbarer-endtropfer/900914801/). Instead of distributing the water of one [end dripper](https://www.gardena.com/de/produkte/bewasserung/micro-drip-system/endtropfer-druckausgleichend/901161001/), you can simply use two adjustable drippers. I hope you agree that Drops Divider solution is a lot more fun.
 
 
 
-
-
-Endtropfer (regulierbarer endtropfer) adjustable dripper, adjustable end dripper
-
-https://www.galaxus.ch/en/s4/product/gardena-end-dropper-final-dripper-drip-irrigation-256992
-
-
-
-Düse nozzle, spray valve
-
-Tropfer: dripper (agr)
-
-flow divider   Dampfstrom Strömungsteiler
-
-Schaukel : seesaw, rocker
-
-
-
-https://de.hinative.com/questions/688524
-
-A drip is a small amount of liquid forming on lower side of something. A drop is a drip that has now fallen and hit something.
+The direct material costs are approximately USD 4.
 
 
 
 ## Supplies
 
-Gardena end dropper, final dripper
-
-https://www.galaxus.ch/en/s4/product/gardena-end-dropper-final-dripper-drip-irrigation-256993
+1 Gardena [end dripper](https://www.gardena.com/de/produkte/bewasserung/micro-drip-system/endtropfer-druckausgleichend/901161001/)
 
 4 M2 x l10 mm flat headed screw
 
-4 Wooden rod 4 x l120
+4 Wooden rod d5 x l260
 
-4 Wooden rod 4 x l120
+4 Wooden rod d5 x l130
 
 1 Paperclip d1
 
