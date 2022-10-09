@@ -8,11 +8,11 @@ https://youtu.be/yke2jgYEK6E
 
 
 
-I recently bought an irrigation system to water the plants on my balcony. It worked perfectly, except that the small plat pots got too much water. The Drops Divider distributes the water evently between two small pots, so they only get half the water. This not only works, it also has a meditative character when you see the rocker tilting from side to side.
+I recently bought an irrigation system to water the plants on my balcony. It worked perfectly, except that the small plant pots got too much water. The Drops Divider distributes the water evenly between two small pots, so they only get half the water. This not only works, but it also has a meditative character when you see the rocker tilting from side to side.
 
 
 
-An alternative solution to the Drops Divider are [adjustable drippers](https://www.gardena.com/de/produkte/bewasserung/micro-drip-system/regulierbarer-endtropfer/900914801/). Instead of distributing the water of one [end dripper](https://www.gardena.com/de/produkte/bewasserung/micro-drip-system/endtropfer-druckausgleichend/901161001/), you can simply use two adjustable drippers. I hope you agree that Drops Divider solution is a lot more fun.
+An alternative solution to the Drops Divider is [adjustable drippers](https://www.gardena.com/de/produkte/bewasserung/micro-drip-system/regulierbarer-endtropfer/900914801/). Instead of distributing the water of one [end dripper](https://www.gardena.com/de/produkte/bewasserung/micro-drip-system/endtropfer-druckausgleichend/901161001/), you can simply use two adjustable drippers. I hope you agree that Drops Divider solution is a lot more fun.
 
 
 
@@ -61,7 +61,7 @@ Insert the dripper into the opening provided and fix it with two M2 screws. Scre
 ![suspension1](suspension1.jpg)
 ![suspension2](suspension2.jpg)
 
-Use the four short wooden rods as spacers and the four long wooden rods as pillars to be stuck into the ground
+Use the four short wooden rods as spacers and the four long wooden rods as pillars to be stuck into the ground.
 
 
 
@@ -71,7 +71,7 @@ Use the four short wooden rods as spacers and the four long wooden rods as pilla
 ![seesaw2](seesaw2.jpg)
 
 
-Use a paperclip side piece on each side to secure the seesaw to the the suspension.
+Use a paperclip side piece on each side to secure the seesaw to the suspension.
 
 
 
