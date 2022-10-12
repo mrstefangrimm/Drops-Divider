@@ -46,7 +46,7 @@ You can use PLA with 20% filling. If you don't have a 3D printer, I recommend lo
 
 
 
-## Assembly of the dripper
+## Dripper Assembly
 
 ![dripper1](dripper1.jpg)
 ![dripper2](dripper2.jpg)
