@@ -1,5 +1,5 @@
 # Drops-Divider
-The Drops Divider is an addition to the Gardena Micro-Drip irrigation system. It distributes the water drops of a end dripper into two plant pots.
+The Drops Divider is an addition to the Gardena Micro-Drip irrigation system. It distributes the water drops of an end dripper into two plant pots.
 
 ## Project History
 The project was realized in 2022.
